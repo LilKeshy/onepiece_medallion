@@ -40,6 +40,7 @@ Armazenamento: CSV / Parquet (datalake local)
 Visualização: Streamlit + Matplotlib
 
 📂 Estrutura de Pastas
+
 ONEPIECE_MEDALLION/
 │
 ├── dags/                     # DAGs do Airflow (Bronze, Silver, Gold)
@@ -52,8 +53,9 @@ ONEPIECE_MEDALLION/
 │   ├── silver/               # Dados normalizados (CSV / Parquet)
 │   └── gold/                 # Dados analíticos (Flat + Analytics)
 │
-├── dashboard/                      
-│   └── app.py                # Dashboard em Streamlit
+├── dashboard/
+│   ├── app.py                # Dashboard em Streamlit
+│   └── prints/               # Prints do dashboard usados no README
 │
 ├── requirements.txt          # Dependências do projeto
 └── README.md                 # Documentação
