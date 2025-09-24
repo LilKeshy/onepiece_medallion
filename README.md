@@ -92,9 +92,21 @@ Rode o Streamlit (dashboard):
 streamlit run app/app.py
 
 📸 Prints
-Exemplo de Gráfico (Top 10 Maiores Recompensas)
 
-Exemplo de Listagem com Filtros
+📸 Prints do Dashboard
+
+**Filtro por Status**
+![Filtro Status](dashboard/prints/filtro_status.jpg)
+
+**Filtro por Tripulação**
+![Filtro Tripulação](dashboard/prints/filtro_tripulacao.jpg)
+
+**Dashboard com Gráficos**
+![Dashboard Gráficos](dashboard/prints/dashboard_graficos.jpg)
+
+**Painel Completo de Filtros**
+![Painel Filtros](dashboard/prints/painel_filtros.jpg)
+
 
 📌 Próximos Passos
 
