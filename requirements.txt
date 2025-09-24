@@ -1,0 +1,18 @@
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Orquestração
+apache-airflow>=2.8.0
+
+# Visualização
+streamlit>=1.26.0
+matplotlib>=3.7.0
+
+# Suporte a formatos
+pyarrow>=14.0.0
+fastparquet>=2023.8.0
+openpyxl>=3.1.2
+
+# HTTP (caso precise expandir para APIs externas)
+requests>=2.31.0

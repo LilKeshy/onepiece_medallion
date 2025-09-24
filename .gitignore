@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs e arquivos temporários
+logs/
+*.log
+*.out
+*.err
+
+# Airflow local
+airflow.db
+airflow.cfg
+standalone_admin_password.txt
+airflow-webserver.pid
+scheduler.log
+webserver.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações locais
+*.save

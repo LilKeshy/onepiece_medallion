@@ -1,0 +1,774 @@
+id,name,bounty,job,status
+1,Monkey D Luffy,,Captain,vivant
+2,Roronoa Zoro,,Right-hand man,living
+3,Nami,,Navigator,living
+4,Usopp,,Sniper,living
+5,Sanji,,Cook,living
+6,Tony-Tony Chopper,100.0,Doctor,living
+7,Nico Robin,,Archaeologist,living
+8,Franky,,Carpenter,living
+9,Brook,,Musician,living
+10,Jinbe,,Helmsman,living
+11,Zeus,,Nami Arme,living
+12,Cavendish,,Captain,living
+13,Suleiman,,Fighter,living
+14,Bartolomeo,,Captain,living
+15,Gambia,,Advisor,living
+16,Sai,,13th Chief Commander,living
+17,Boo,,second-in-command,living
+18,Baby 5,,,living
+19,Ideo,,Captain,living
+20,Blue Gilly,,,living
+21,Abdullah,,,living
+22,Jeet,,,living
+23,Léo,,Captain,living
+24,Kabu,,,living
+25,Bee Anne,,,living
+26,Hajrudin,,Captain,living
+27,Stansen,,Carpenter,living
+28,Road,,Browser,living
+29,Goldberg,,Cook,living
+30,Gerd,,Doctor,living
+31,Orlumbus,,Admiral,living
+32,Baggy / Le Clown,,Chairman,living
+33,Alvida,,,living
+34,Galdino,,,living
+35,Morge,,,living
+36,Cabaji,,,living
+37,Kuro,,Captain,living
+38,Sham,,Officer,living
+39,Buchi,,Officer,living
+40,Krieg / Don Krieg,,Captain,living
+41,Gyn,,Vice-Admiral,living
+42,Pearl,,Captain (2nd Battalion),living
+43,Montblanc Cricket,,Commander-in-Chief,living
+44,Masira,,,living
+45,Shojo,,,living
+46,Foxy,,Captain,living
+47,Porché,,Fighter,living
+48,Hamburg,,Fighter,living
+49,Gecko Moria,,Captain,living
+50,Hogback,,Mysterious Four,living
+51,Absalom,,Mysterious Four,deceased
+52,Perona,,Mysterious Four,living
+53,Laura,,Captain,living
+54,Trafalgar D. Water Law,,Captain,living
+55,Bepo,500.0,Browser,living
+56,Jean Bart,,,living
+57,Shachi,,,living
+58,Pingouin,,,living
+59,Eustass Kidd,,Captain,living
+60,Killer,,Fighter,living
+61,Heat,,Fighter,living
+62,Wire,,Captain,living
+63,Capone Bege,,Captain,living
+64,Vito,,Advisor,living
+65,Gotti,,Assassin,living
+66,Charlotte Chiffon,,,living
+67,Charlotte Pets,,,living
+68,Jewelry Bonney,,Captain,living
+69,Urouge,,Captain,living
+70,Boa Hancock,,Captain,living
+71,Boa Sandersonia,,,living
+72,Boa Marigold,,,living
+73,Margaret,,,living
+74,Shiki,,Admiral,living
+75,Indigo,,,living
+76,Caribou,,Co-Captain,living
+77,Coribou,,Co-Captain,living
+78,Ficher Tiger,,Captain,deceased
+79,Aladdin,,Vice-Captain,living
+80,Charlotte Praliné,,,living
+81,Dracule Mihawk,,,living
+82,Crocodile,,,living
+83,Das Bones,,,living
+84,Edward Weeble,,,living
+85,Shanks,,Captain,living
+86,Ben Beckmann,,Vice-Captain,living
+87,Lucky Roo,,Lieutenant,living
+88,Yassop,,Lieutenant,living
+89,Limejuice,,Lieutenant,living
+90,Bonk Punch,,Lieutenant,living
+91,Monster,,Lieutenant,living
+92,Building Snake,,Lieutenant,living
+93,Hongo,,Lieutenant,living
+94,Howling Dab,,Lieutenant,living
+95,Rockstar,,,living
+96,Charlotte Linlin / Big Mom,,Captain,living
+97,Charlotte Dent-de-chien,,General Sucré,living
+98,Charlotte Smoothie,,General Sucré,living
+99,Charlotte Cracker,,General Sucré,living
+100,Charlotte Slurp,,Lieutenant,living
+101,Charlotte Daifuku,,Lieutenant,living
+102,Charlotte Oven,,Lieutenant,living
+103,Charlotte Amande,,Lieutenant,living
+104,Charlotte Opéra,,Lieutenant,living
+105,Charlotte Brûlée,,Lieutenant,living
+106,Charlotte Mont d’Or,,Lieutenant,living
+107,Charlotte Galette,,Lieutenant,living
+108,Charlotte Snack,,Lieutenant,living
+109,Charlotte Pudding,,Lieutenant,living
+110,Charlotte Flampée,,Lieutenant,living
+111,Charlotte Compote,,Officer,living
+112,Charlotte Mondé,,Officer,living
+113,Charlotte Hachée,,Officer,living
+114,Charlotte Effilée,,Officer,living
+115,Charlotte Counter,,Officer,living
+116,Charlotte Cadenza,,Officer,living
+117,Charlotte Cabaletta,,Officer,living
+118,Charlotte Gala,,Officer,living
+119,Charlotte Angel,,Officer,living
+120,Charlotte Crème,,Officer,living
+121,Charlotte Zuccoto,,Officer,living
+122,Charlotte Broyée,,Officer,living
+123,Charlotte Nusstorte,,Officer,living
+124,Charlotte Basskarte,,Officer,living
+125,Charlotte Dosmarché,,Officer,living
+126,Charlotte Noisette,,Officer,living
+127,Charlotte Moscato,,Officer,living
+128,Charlotte Mash,,Officer,living
+129,Charlotte Corn Starch,,Officer,living
+130,Charlotte Compo,,Officer,living
+131,Charlotte Laurin,,Officer,living
+132,Charlotte Mozart,,Officer,living
+133,Charlotte Marnier,,Officer,living
+134,Charlotte High-Fat,,Officer,living
+135,Charlotte Tablet,,Officer,living
+136,Charlotte Citron,,Officer,living
+137,Charlotte Cannelle,,Officer,living
+138,Charlotte Saint-Marc,,Officer,living
+139,Charlotte Basans,,Officer,living
+140,Charlotte Mélisée,,Officer,living
+141,Charlotte Dacquoise,,Officer,living
+142,Charlotte Poire,,Officer,living
+143,Charlotte Bavarois,,Officer,living
+144,Charlotte Prim,,Officer,living
+145,Charlotte Kanten,,Officer,living
+146,Charlotte Kato,,Officer,living
+147,Charlotte Montb,,Officer,living
+148,Charlotte Chiboust,,Officer,living
+149,Charlotte Mobile,,Officer,living
+150,Charlotte Marble,,Officer,living
+151,Charlotte Mucre,,Officer,living
+152,Charlotte Mapple,,Officer,living
+153,Charlotte Brownie,,Officer,living
+154,Charlotte Joconde,,Officer,living
+155,Charlotte Raisin,,Officer,living
+156,Charlotte Panna,,Officer,living
+157,Charlotte Mascarpone,,Officer,living
+158,Charlotte Joscarpone,,Officer,living
+159,Charlotte Yu Yuan,,Officer,living
+160,Charlotte Newichi,,Officer,living
+161,Charlotte Newji,,Officer,living
+162,Charlotte Newsan,,Officer,living
+163,Charlotte Newshi,,Officer,living
+164,Charlotte Newgo,,Officer,living
+165,Charlotte Muscade,,Officer,living
+166,Charlotte Muscadia,,Officer,living
+167,Charlotte Muscadelle,,Officer,living
+168,Charlotte Muscadine,,Officer,living
+169,Charlotte Muscadette,,Officer,living
+170,Charlotte Nougat,,Officer,living
+171,Charlotte Anglais,,Officer,living
+172,Charlotte Wafers,,Officer,living
+173,Charlotte Wiro,,Officer,living
+174,Charlotte De-Chat,,Officer,living
+175,Charlotte Normande,,Officer,living
+176,Charlotte Dolce,,Officer,living
+177,Charlotte Dragée,,Officer,living
+178,Charlotte Anana,,Officer,living
+179,Pekoms,,Fighter,living
+180,Delœuf,,Fighter,living
+181,Boddin,,Fighter,living
+182,Streusen,,Cook,living
+183,Prométhée,,Homie,living
+184,Napoléon,,Homie,living
+185,Héra,,Homie,living
+186,Kingbaum,,Homie,deceased
+187,Kaido,,Captain,living
+188,King,,Superstar,living
+189,Queen,,Superstar,living
+190,Jack,,Superstar,living
+191,Page One,,Tobi Roppo,living
+192,Ulti,,Tobi Roppo,living
+193,Who’s Who,,Tobi Roppo,living
+194,Black Maria,,Tobi Roppo,living
+195,Sasaki,,Tobi Roppo,living
+196,Sheep’s Head,,Vedette,living
+197,Basil Hawkins,,Vedette,living
+198,Holdem,,Vedette,living
+199,Speed,,Vedette,living
+200,Trouduc,,Vedette,living
+201,Pouilleux,,Vedette,living
+202,Solitaire,,Vedette,living
+203,Bao Huang,,Vedette,living
+204,Ginrummy,,Vedette,living
+205,Plouf,,Vedette,living
+206,Briscola,,Vedette,living
+207,Fourtricks,,Vedette,living
+208,Hamlet,,Vedette,living
+209,Mizerka,,Vedette,living
+210,Poker,,Vedette,living
+211,Batman,,Gifters,living
+212,Gazelleman,,Gifters,living
+213,Mouseman,,Gifters,living
+214,Snakeman,,Gifters,living
+215,Rabitman,,Gifters,living
+216,Sarehebi,,Gifters,living
+217,Alpagaman,,Gifters,living
+218,Tatouman,,Gifters,living
+219,Dachoman,,Gifters,living
+220,Tenjo-Sagari,,Gifters,living
+221,Caimanlady,,Gifters,living
+222,Nuré-Onna,,Gifters,living
+223,Wa-Nyudo,,Gifters,living
+224,Inbi,,Numbers,living
+225,Fuga,,Numbers,living
+226,Zanki,,Numbers,living
+227,Jaki,,Numbers,living
+228,Goki,,Numbers,living
+229,Rokki,,Numbers,living
+230,Nangi,,Numbers,living
+231,Hacha,,Numbers,living
+232,Kunyun,,Numbers,living
+233,Juki,,Numbers,living
+234,Fukurokuju,,,living
+235,Daikoku,,Samurai,living
+236,Hanzo,,Samurai,living
+237,Sarutobi,,Samurai,living
+238,Kazekage,,Samurai,living
+239,Jigoku Benten,,Samurai,living
+240,Fujin,,Samurai,living
+241,Raijin,,Samurai,living
+242,Bishamon,,Samurai,living
+243,Tohomé,,Samurai,living
+244,Yazaémon,,Samurai,living
+245,Hotei,,Samurai,living
+246,Scratchmen Apoo,,Informer,living
+247,Marchall D. Teach / Barbe Noire,,Pirate,living
+248,Jesus Burgess,,Admiral ship's captain,living
+249,Shiliew,,Commander 2nd Ship,living
+250,Van Auger,,Commander 3rd Ship,living
+251,Avalo Pizarro,,Commander 4th Ship,living
+252,Lafitte,,Commander 5th Ship,living
+253,Catarina Devon,,Commander 6th Ship,living
+254,Sanjuan Wolf,,Commander 7th Ship,living
+255,Vasco Shot,,Commander 8th Ship,living
+256,Doc Q,,Commander 9th Ship,living
+257,Barbe Rose,,,living
+258,Gol D. Roger,,Captain,deceased
+259,Silvers Rayleigh,,Right-hand man,living
+260,Scopper Gaban,,Carpenter,living
+261,Seagull Guns Nozdon,,,living
+262,Taro,,,living
+263,Dringo,,,living
+264,Sanjuan Wolf,,,living
+265,Millet Pine,,,living
+266,Ganryu,,,living
+267,CB Galant,,,living
+268,Donquino,,,living
+269,Mr Momora,,,living
+270,Moon Isaac Jr.,,,living
+271,Yui,,,living
+272,Rangram,,,living
+273,Colonel Mugren,,,living
+274,Max Marks,,,living
+275,Spencer,,,living
+276,Bankro,,,living
+277,Blumarine,,,living
+278,Elio,,,living
+279,Rowing,,,living
+280,Jacsonbaner,,,living
+281,Yamon,,,living
+282,Arlong,,Captain,living
+283,Kuroobi,,Lieutenant,living
+284,Smack,,Lieutenant,living
+285,Yorki,,Captain,deceased
+286,Madaisky Mizuta,,,deceased
+287,Mawaritovsky Mizuta,,,deceased
+288,Sarquiss,,,deceased
+289,Edward Newgate / Barbe Blanche,,Captain,deceased
+290,Portgas D. Ace,,Commander 2nd Ship,deceased
+291,Diamond Joz,,Commander 3rd Ship,living
+292,Thatch,,Commander 4th Ship,deceased
+293,Vista,,Commander 5th Ship,living
+294,Blamenco,,Commander 6th Ship,living
+295,Rakuyo,,Commander 7th Ship,living
+296,Blenheim,,Commander 9th Ship,living
+297,Curiel,,Commander 10th Ship,living
+298,Kingdew,,Commander 11th Ship,living
+299,Haruta,,Commander 12th Ship,living
+300,Atmos,,Commander 13th Ship,living
+301,Speed Jill,,Commander 14th Ship,living
+302,Fossa,,Commander 15th Ship,living
+303,Izou,,Commander 16th Ship,deceased
+304,Doma,,Subordinate,living
+305,Frères DeCalvan,,Subordinate,living
+306,Squardo,,Subordinate,living
+307,Whitey Bay,,Subordinate,living
+308,Little Oz Junior,,Subordinate,unknown
+309,Mc Guy,,Subordinate,living
+310,A.O,,Subordinate,living
+311,Karma,,Subordinate,living
+312,Elmy,,Subordinate,living
+313,Ramba,,Subordinate,living
+314,Delacuaji,,Subordinate,living
+315,Zodia,,Subordinate,living
+316,Palms,,Subordinate,living
+317,Bizarre,,Subordinate,living
+318,Pavlik,,Subordinate,living
+319,Vitan,,Subordinate,living
+320,Islewan,,Subordinate,living
+321,Epoida,,Subordinate,living
+322,Kechatch,,Subordinate,living
+323,Choi,,Subordinate,living
+324,Arhur,,Subordinate,living
+325,Hangan,,Subordinate,living
+326,Reforte,,Subordinate,living
+327,Andre,,Subordinate,living
+328,Ninth,,Subordinate,living
+329,Blondie,,Subordinate,living
+330,Nosgarl,,Subordinate,living
+331,Amadob,,Subordinate,living
+332,Baggaley,,Subordinate,living
+333,Wakkem,,Subordinate,living
+334,Brew,,Subordinate,living
+335,Brocca,,Subordinate,living
+336,Rush,,Subordinate,living
+337,Great Micheal,,Subordinate,living
+338,Zucca,,Subordinate,living
+339,Cands,,Subordinate,living
+340,Kinga,,Subordinate,living
+341,Colscon,,Subordinate,living
+342,Agsilly,,Subordinate,living
+343,Julius,,Subordinate,living
+344,Happygun,,Subordinate,living
+345,Sleepy,,Subordinate,living
+346,Forliewbs,,Subordinate,living
+347,Barbos Bruneriguez / Barbe Brune,,Captain,living
+348,Bluejam,,Captain,deceased
+349,Porchemy,,,deceased
+350,Demaro Black,,Captain,living
+351,Manjaro,,,living
+352,Chocolat,,,living
+353,Mounblutain,,,living
+354,Drip,,,living
+355,Nora Gitsune,,,living
+356,Cocoa,,,living
+357,Turco,,,living
+358,Hody Jones,,Captain,living
+359,Dosun,,Lieutenant,living
+360,Zeo,,Lieutenant,living
+361,Daruma,,Lieutenant,living
+362,Ikaros Much,,Lieutenant,living
+363,Hyozo,,Lieutenant,living
+364,Vander Decken IX,,Captain,unknown
+365,Don Quijote Doflamingo,,Captain,living
+366,Trébol,,Lieutenant-Chef,living
+367,Diamante,,Lieutenant-Chef,living
+368,Pica,,Lieutenant-Chef,living
+369,Vergo,,Lieutenant-Chef,deceased
+370,Sugar,,Lieutenant of the Trebol Army,living
+371,Jora,,Lieutenant of the Trebol Army,living
+372,Lao G,,Lieutenant of the Army of Diamante,living
+373,Señor Pink,,Lieutenant of the Army of Diamante,living
+374,Machvise,,Lieutenant of the Army of Diamante,living
+375,Dellinger,,Lieutenant of the Army of Diamante,living
+376,Gladius,,Pica Army Lieutenant,living
+377,Buffallo,,Pica Army Lieutenant,living
+378,Monet,,Lieutenant,deceased
+379,Rocks D. Xebec,,Captain,unknown
+380,Im Sama,,Manager,living
+381,1er Doyen,,Council of Five Deans,living
+382,2e Doyen,,Council of Five Deans,living
+383,3e Doyen,,Council of Five Deans,living
+384,4e Doyen,,Council of Five Deans,living
+385,5e Doyen,,Council of Five Deans,living
+386,Roswald,,,living
+387,Charloss,,,living
+388,Sharlia,,,living
+389,Don Quijote Myosgard,,,deceased
+390,Jalmack,,,living
+391,Guernica,,,unknown
+392,Rob Lucci,,,living
+393,Hittori,,,living
+394,Spandam,,,living
+395,Funckfreed,,,living
+396,Kaku,,,living
+397,Stussy,,,living
+398,Maha,,,living
+399,Jerry,,,living
+400,Wanzé,,,living
+401,Bas,,,living
+402,And,,,living
+403,Kerville,,,living
+404,Hannyabal,,director,living
+405,Magellan,,vice-president,living
+406,Domino,,Head guard,living
+407,Saldeath,,Chief of guards,living
+408,Sadi,,Chief of the demonic guard,living
+409,Minotaure,,Bestial Guard,living
+410,Minokoala,,Bestial Guard,living
+411,Minorhinocéros,,Bestial Guard,living
+412,Minozèbre,,Bestial Guard,living
+413,Minochihuabua,,Bestial Guard,living
+414,Sakazuki / Akainu,,Chief Admiral,living
+415,Borsalino / Kizaru,,Admiral,living
+416,Issho / Fujitora,,Admiral,living
+417,Aramaki / Ryokugyu,,Admiral,living
+418,Monkey D. Garp,,Vice-Admiral,living
+419,Tsuru,,Vice-Admiral,living
+420,John Giant,,Vice-Admiral,living
+421,Comir,,Vice-Admiral,living
+422,Momonga,,Vice-Admiral,living
+423,Onigumo,,Vice-Admiral,living
+424,Doberman,,Vice-Admiral,living
+425,Strawberry,,Vice-Admiral,living
+426,Yamakaji,,Vice-Admiral,living
+427,Dalmatien,,Vice-Admiral,living
+428,Bastille,,Vice-Admiral,living
+429,Smoker,,Vice-Admiral,living
+430,Maynard,,Vice-Admiral,living
+431,Tokikake,,Vice-Admiral,living
+432,Hina,,Sub-Admiral,living
+433,T. Bone,,Sub-Admiral,living
+434,Pudding,,Rear Admiral,deceased
+435,Jenfétro,,Rear Admiral,living
+436,Brandnew,,Rear Admiral,living
+437,Verygood,,Colonel,living
+438,Shu,,Colonel,living
+439,Sharinguru,,Colonel,living
+440,Tashigi,,Colonel,living
+441,Kobby,,Colonel,living
+442,Nezumi,,Colonel,living
+443,Don Quijote Rosinante,,Lieutenant-Colonel,deceased
+444,Hermep,,Lieutenant,living
+445,Fullbody,,Lieutenant,living
+446,Jango,,Lieutenant,living
+447,Sengoku,,Observer,living
+448,Sentomaru,,Captain of the Scientific Brigade,living
+449,X-Drake,,Captain of the Sword,living
+450,Kaiser Moustache,,Vice-Admiral,living
+451,Cancer,,Vice-Admiral,living
+452,Mozambia,,Vice-Admiral,living
+453,Lacroix,,Vice-Admiral,living
+454,Ronz,,Vice-Admiral,living
+455,Dohn Deynon,,Vice-Admiral,living
+456,Draw,,Vice-Admiral,living
+457,Sicily,,Sub-Admiral,living
+458,Akehende,,Sub-Admiral,living
+459,Catacombo,,Sub-Admiral,living
+460,Kadar,,Sub-Admiral,living
+461,Daigin,,Rear Admiral,living
+462,Gorilla,,Colonel,living
+463,Stelly,,Sovereign,living
+464,Sally Entoilette,,Queen,living
+465,Outlook III,,Residents of Haute Ville,living
+466,Didit,,Residents of Haute Ville,living
+467,Makino,,Bar owner,living
+468,Woop Slap,,Mayor of the village of Fuchsia,living
+469,Curly Dadan,,Mount Corvo resident,living
+470,Dogra,,Mount Corvo resident,living
+471,Magra,,Mount Corvo resident,living
+472,Higuma,,Resident,deceased
+473,Kozaburo Shimotsuki,,Resident,deceased
+474,Koshiro,,Dojo Master,living
+475,Kuina,,Resident,deceased
+476,Boodle,,Mayor of the village of Orange,living
+477,Chouchou,,Store owner,living
+478,Gaimone,,Guard,living
+479,Sarfunkel,,Resident,living
+480,Kaya,,Medical student,living
+481,Merry,,Butler,living
+482,Oignon,,Resident of vilalge de Sirop,living
+483,Piment,,Resident of vilalge de Sirop,living
+484,Carotte,,Resident of vilalge de Sirop,living
+485,Banchina,,Resident of vilalge de Sirop,deceased
+486,Zeff,,Owner and Chef,living
+487,Patty,,Pastry chef,living
+488,Canne,,Meat cook,living
+489,Belmer,,Tangerine grower,deceased
+490,Nojiko,,Tangerine grower,living
+491,Genzo,,Sheriff,living
+492,Nako,,Doctor,living
+493,Chabo,,Tangerine grower,living
+494,Johny,,Fisherman,living
+495,Yosaku,,Fisherman,living
+496,Ipponmatsu,,Armurier,living
+497,Montblanc Norland,,Explorer,deceased
+498,Don Quijote Homing,,,deceased
+499,Portgas D. Rouge,,,deceased
+500,Wapol,,King,living
+501,Kinderella,,Queen,living
+502,Clover,,Library Manager,deceased
+503,Nico Olvia,,Archaeologist,deceased
+504,Haguar D. Sauro,,Vice-Admiral,deceased
+505,Ramen,,King,unknown
+506,Chinjao,,,living
+507,Crocus,,Lighthouse keeper,living
+508,Laboon,,Resident,living
+509,Miss Monday,,Resident,living
+510,Mr 9,,Resident,living
+511,Dorry,,Resident,living
+512,Broggy,,Resident,living
+513,Dolton,,Sovereign,living
+514,Kureha,,Doctor,living
+515,Hiluluk,,Doctor,deceased
+516,Chess,,Chief of Staff,living
+517,Kuromarimo,,Director,living
+518,Nefertari Cobra,,12th King,living
+519,Nefertari Titi,,Queen,deceased
+520,Nefertari Vivi,,Princess,living
+521,Igaram,,Commander of the Royal Guard,living
+522,Chaka,,Deputy Commander of the Royal Guard,living
+523,Pell,,Deputy Commander of the Royal Guard,living
+524,Kaloo,,Super Duck Squadron,living
+525,Longs-Cils,,Resident,living
+526,Stomp,,Super Duck Squadron,living
+527,Ivan X,,Super Duck Squadron,living
+528,Cowboy,,Super Duck Squadron,living
+529,Bourdon Jr.,,Super Duck Squadron,living
+530,Kentarôs,,Super Duck Squadron,living
+531,Hikoichi,,Super Duck Squadron,living
+532,Koza,,Minister for the Environment,living
+533,Toto,,Resident,living
+534,Tonjit,,Nomad,living
+535,Shelly,,Resident,living
+536,Gedatsu,,Employee,living
+537,Icebarg,,Galley-La Company (manager),living
+538,Pauly,,Galley-La Company (vice-manager),living
+539,Peeply Lulu,,Galley-La Company (head of coaters and blacksmiths),living
+540,Tilestone,,"Galley-La Company (head of cabinetmakers, sailmakers and sailmakers)",living
+541,Zanbai,,Galley-La Company (Zanbai syndicate),living
+542,Mozu,,Bartender,living
+543,Kiwi,,Bartender,living
+544,Tom,,Tom's Workers (boss),deceased
+545,Kokoro,,Shift Station Station Manager,living
+546,Chimney,,Shift Station Sunday stationmaster,living
+547,Gonbei,,Resident,living
+548,Yokozuma,,Resident,living
+549,Silvers Rayleigh,,Resident,living
+550,Shakuyaku,,Resident,living
+551,Disco,,Resident,living
+552,Duval,,Resident,living
+553,Héraclès,,Resident,living
+554,Loki,,Prince,living
+555,Jorl,,Resident,deceased
+556,Jarl,,Resident,living
+557,Oimo,,Resident,living
+558,Kaashii,,Resident,living
+559,Sukiyaki Kozuki,,Shogun,living
+560,Oden Kozuki,,Lord of Kuri,deceased
+561,Toki Kozuki,,Resident,deceased
+562,Mononosuké Kozuki,,Shogun,living
+563,Hiyori Kozuki,,Courtesan,living
+564,Kinémon,,Red sheaths,living
+565,Denjiro,,Red sheaths,living
+566,Izo,,Red sheaths,deceased
+567,Kikunojo,,Red sheaths,living
+568,Raizo,,Red sheaths,living
+569,Ashura Doji,,Red sheaths,deceased
+570,Kawamatsu,,Red sheaths,living
+571,Shinobu,,Red sheaths,living
+572,Orochi Kurozumi,,Shogun,deceased
+573,Kanjuro Kurozumi,,Red sheaths,living
+574,Semimaru Kurozumi,,Kurozumo clan,deceased
+575,Higurashi Kurozumi,,Kurozumo clan,deceased
+576,Ryuma Shimotsuki,,Shimotsuki clan,deceased
+577,Yasui Shimotsuki,,Shimotsuki clan,deceased
+578,Toko,,Shimotsuki clan,deceased
+579,Onimaru,,Resident,living
+580,Hyogoro,,head of a yakuza clan in the capital of flowers,living
+581,Omasa,,head of a yakuza clan in the Udon region,living
+582,Tsunagoro,,head of a yakuza clan in the Hakumai region,living
+583,Cho,,head of a yakuza clan in the Ringo region,living
+584,Yatappé,,head of a yakuza clan in the Kibi region,living
+585,Tama,,Resident,living
+586,Tsurujo,,Resident,living
+587,Komachiyo,,Resident,living
+588,Baboumaru,,Resident,living
+589,Bunbuku,,Resident,living
+590,Yamato,,Resident,living
+591,Rock,,Yeti Cool Brothers,living
+592,Scotch,,Yeti Cool Brothers,living
+593,Smiley,,Resident,deceased
+594,Riku Dold III,,King,living
+595,Scarlett,,Princess,deceased
+596,Kyros,,Commander-in-Chief,living
+597,Viola,,Princess,living
+598,Rebecca,,Next,living
+599,Gatz,,Resident,living
+600,Tank Lepanto,,Resident,living
+601,Guncho,,King,living
+602,Manshelly,,Princess,living
+603,Zunesh,,,living
+604,Bêgis Khan,,Lord,living
+605,Caborage,,Day Lord / Red Sheaths,living
+606,Chavipère,,Seigneur Nocture / Fourreaux Rouges,living
+607,Sicilion,,Captain of the Musketeers unit,living
+608,Cancelot,,Musketeer unit,living
+609,Giovanni,,Musketeer unit,living
+610,Wanda,,Musketeer unit,living
+611,Carrot,,Musketeer unit,living
+612,Pedro,,Musketeer unit,deceased
+613,Elizabello II,,Sovereign,living
+614,Dagama,,Strategist,living
+615,Kelly Funk,,Assassin,living
+616,Bobby Funk,,Assassin,living
+617,Judge Vinsmoke,,Sovereign,living
+618,Sora Vinsmoke,,Queen,deceased
+619,Reiju Vinsmoke,,Princess,living
+620,Ichiji Vinsmoke,,Prince,living
+621,Niji Vinsmoke,,Prince,living
+622,Yonji Vinsmoke,,Prince,living
+623,Marco,,Sphinx (doctor) / Command 1st Whitebeard Fleet,living
+624,Gan Forr,,God,living
+625,Pierre,,Resident,living
+626,Conis,,Resident,living
+627,Pagaya,,Resident,living
+628,Amazon,,Resident,living
+629,Chef Shandia,,Resident / Shandia tribe (chief),living
+630,Wiper,,Divine Guard / Shandia Tribe,living
+631,Kamakiri,,Divine Guard / Shandia Tribe,living
+632,Braham,,Divine Guard / Shandia Tribe,living
+633,Genbo,,Divine Guard / Shandia Tribe,living
+634,Laki,,Resident / Shandia tribe,living
+635,Aisa,,Resident / Shandia tribe,living
+636,Nora,,Resident / Shandia tribe,living
+637,Calgara,,Shandia tribe,deceased
+638,Om,,Skypiea (exiled) / Clan Ener (Prelate of the Iron ordalia),living
+639,Satori,,Skypiea (exiled) / Clan Ener (Prelate of the Balloon Ordinary),living
+640,Shura,,Skypiea (exiled) / Clan Ener (Prelate of the ordination of sons),living
+641,Yama,,Skypiea (exile) / Clan Ener (captain of the sacred guard),living
+642,Hotori,,Skypiea (exiled) / Clan Ener (vice captain of the sacred guard),living
+643,Kotori,,Skypiea (exiled) / Clan Ener (vice captain of the sacred guard),living
+644,Haredas,,Resident,living
+645,Neptune,,Monarch,living
+646,Otohime,,Queen,deceased
+647,Fukaboshi,,Prince,living
+648,Ryuboshi,,Prince,living
+649,Mamboshi,,Prince,living
+650,Shirahoshi,,Princess,living
+651,Hoé,,Resident,living
+652,Mégalo,,Resident,living
+653,Ministre Sénestre,,Minister Sénestre,living
+654,Ministre Dextre,,Minister Dextre,living
+655,Shyarly,,Owner Café des Sirènes,living
+656,Keimi,,Café des Sirènes employee,living
+657,Pappag,,"Founder / Designer of the ""Criminal"" brand",living
+658,Octy,,Takoyaki merchant,living
+659,Den,,Carpenter,living
+660,Ener,,Manager,living
+661,Monkey D. Dragon,,Commander-in-Chief,living
+662,Sabo,,Chief of Staff,living
+663,Emporio Ivankov,,Command of troop G,living
+664,Corbeau,,"Commander of the ""Septentrionale"" troop",living
+665,Belo Betty,,"Commander of the ""Oriental"" troop",living
+666,Morley,,"Western"" troop commander",living
+667,Lindbergh,,"Commander of the ""southern"" troop",living
+668,Inazuma,,"Sub-Commander of ""G"" Troop",living
+669,Canard,,"Commander of the ""Oriental"" troop",living
+670,Koala,,Lieutenant,living
+671,Hack,,Private,living
+672,Zala,,Special Agent,living
+673,Bentham,,Special Agent,living
+674,Marianne,,Special Agent,living
+675,Babe,,Special Agent,living
+676,Lassou,,Special Agent,living
+677,Drophy,,Special Agent,living
+678,Gemme,,Special Agent,living
+679,Mikita,,Special Agent,living
+680,Jabura,,Cipher Pol n°9,living
+681,Blueno,,Cipher Pol n°9,living
+682,Kumadori,,Cipher Pol n°9,living
+683,Fukuro,,Cipher Pol n°9,living
+684,Kalifa,,Cipher Pol n°9,living
+685,Nero,,Cipher Pol n°9,living
+686,Spandine,,Cipher Pol n°9,living
+687,Kuzan / Aokiji,,Admiral,living
+688,Morgan,,Colonel,living
+689,Bellamy,,Private,living
+690,Bartholomew Kuma,,Lieutenant,living
+691,César Clown,,,living
+692,Morgans,,World Economic Journal (boss),living
+693,El Gorago,,Captain,living
+694,Golass,,Captain,living
+695,Tobio,,,living
+696,Ganzo,,,living
+697,Woonan,,Captain,deceased
+698,Bear King,,Captain,living
+699,Honey Queen,,,living
+700,Pin Joker,,,living
+701,Boo Jack,,,living
+702,Skunk One,,,living
+703,Borodo,,,living
+704,Akisu,,,living
+705,Bulter,,Earl Butler,living
+706,Hotdog,,General Hotdog,living
+707,Mobambi,,King,living
+708,Heaby,,Chairman Heaby,living
+709,Général Gasparde,,Captain,living
+710,Needless,,,living
+711,Biera,,,living
+712,Shuraiya Bascùd,,,living
+713,Adelle Bascùd,,,living
+714,Saga,,,living
+715,Toma,,,living
+716,Bismarck,,,living
+717,Boo Kong,,,living
+718,Maya,,Priestess,living
+719,Izaya,,Priestess,living
+720,Lacos,,Chief Warrior,living
+721,Omatsuri,,Captain,deceased
+722,Lily Carnation,,Captain,deceased
+723,Papa,,Captain,unknown
+724,Brief,,Captain,unknown
+725,Ratchet,,Feudal lord,living
+726,Honki,,Colonel,living
+727,Maji,,General,living
+728,Roba,,Resident,living
+729,Musshul,,Prince,living
+730,Scarlett,,,living
+731,Billy,,,living
+732,Xiao,,,living
+733,Schneider,,Captain,living
+734,Buzz,,,living
+735,Zéphyr,,Chef,deceased
+736,Ain,,Vice-Admiral,living
+737,Bins,,Lieutenant,living
+738,Gild Tesoro,,Owner,living
+739,Baccarat,,Concierge,living
+740,Dice,,Dealer,living
+741,Tanaka,,Safety Manager,living
+742,Carina,,Owner,living
+743,Douglas Bullet,,,living
+744,Buena Festa,,,living
+745,Ann,,,living
+746,Donald Moderate,,,living
+747,Uta,,Resident,living
+748,Gordon,,Resident,living
+749,Tenguyama Hitetsu,,Blacksmith,living
+750,Gion,,Vice-Admiral,living
+751,Musshuru,,,living
+752,Apis,,,living
+753,Bokuden,,,living
+754,Orlombus,,Admiral,living
+755,Macro,,Captain,living
+756,Pudding Pudding,,Commodore,deceased
+757,Pandaman,,Fighter,unknown
+758,Zenny,,Loan shark,living
+759,Wetton,,Mayor,deceased
+760,Bigalo,,,
+761,Végapunk,,Scientist,living
+762,Stronger,,Doc Q's horse,living
+763,Punk 01 - Shaka,,Vegapunk - the good,unknown
+764,Punk 02 - Lilith,,Vegapunk - evil,living
+765,Punk 03 - Edison,,Vegapunk - inventiveness,living
+766,Punk 04 - Pythagoras,,Vegapunk - knowledge,living
+767,Punk 05 - Atlas,,Vegapunk - violence,living
+768,Punk 06 - York,,Vegapunk - envy,living
+769,S-Snake,,Seraph-type pacifistas,living
+770,S-Hawk,,Seraph-type pacifistas,living
+771,S-Bear,,Seraph-type pacifistas,living
+772,S-Shark,,Seraph-type pacifistas,living
+773,Karazu,,Captain,living
